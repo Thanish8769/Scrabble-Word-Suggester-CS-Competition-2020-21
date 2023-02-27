@@ -1,0 +1,16 @@
+C:\Users\Thani\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Thani\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Thani\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Thani\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Thani\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NetSpell.SpellChecker.dll
+C:\Users\Thani\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NetSpell.SpellChecker.xml
+C:\Users\Thani\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Thani\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Thanish Word Generator.exe.config
+C:\Users\Thani\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Thanish Word Generator.exe.manifest
+C:\Users\Thani\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Thanish Word Generator.application
+C:\Users\Thani\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Thanish Word Generator.exe
+C:\Users\Thani\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Thanish Word Generator.pdb
+C:\Users\Thani\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Thanish Word Generator.exe.manifest
+C:\Users\Thani\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Thanish Word Generator.application
+C:\Users\Thani\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Thanish Word Generator.exe
+C:\Users\Thani\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Thanish Word Generator.pdb
